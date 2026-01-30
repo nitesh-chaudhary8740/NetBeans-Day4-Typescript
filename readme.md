@@ -7,11 +7,11 @@ A comprehensive, step-by-step guide to mastering TypeScript. Use this as a check
 ## 🟢 Phase 1: The Essentials (Beginner)
 *Foundational concepts and setting up your environment.*
 
-- [ ] **1. Introduction & Setup**
-    - [ ] What is TypeScript? (Superset of JS)
-    - [ ] Installing the Compiler (`npm install -g typescript`)
-    - [ ] Understanding `tsconfig.json`
-    - [ ] Running TS with `tsc` and `ts-node`
+- [x] **1. Introduction & Setup ✅**
+    - [x] What is TypeScript? (Superset of JS) ✅
+    - [x] Installing the Compiler (`npm install -g typescript`) ✅
+    - [x] Understanding `tsconfig.json` ✅
+    - [x] Running TS with `tsc` and `ts-node` ✅
 - [ ] **2. Basic Types**
     - [ ] Primitives: `string`, `number`, `boolean`
     - [ ] `null` and `undefined`
