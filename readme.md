@@ -18,17 +18,17 @@ A comprehensive, step-by-step guide to mastering TypeScript. Use this as a check
     - ✅The `any` type (and why to avoid it)
     - ✅ Arrays and Tuples
     - ✅ Enums (Numeric vs. String)
-- [ ] **3. Functions**
-    - [ ] Parameter type annotations
-    - [ ] Return type annotations
-    - [ ] Optional and Default parameters
-    - [ ] Void, Never, and Unknown types
+- ✅  **3. Functions**
+    - ✅ Parameter type annotations
+    - ✅ Return type annotations
+    - ✅ Optional and Default parameters
+    - ✅ Void, Never, and Unknown types
 
 ---
 
 ## 🟡 Phase 2: Structural Typing (Intermediate)
 *Defining complex shapes and object-oriented patterns.*
-
+]
 - [ ] **4. Interfaces & Type Aliases**
     - [ ] Interface vs. Type Alias (Differences & Use cases)
     - [ ] Optional (`?`) and Readonly properties
