@@ -8,9 +8,9 @@ console.log("isLearningTS <Boolean>",isLearningTS)
 // myName = 100; // Error: Type 'number' is not assignable to type 'string'.
 
 let emptyValue: null = null;
-console.log("emptyValue <null>",isLearningTS)
+console.log("emptyValue <null>",emptyValue)
 let notFound: undefined = undefined;
-console.log("not found <undefined>",isLearningTS)
+console.log("not found <undefined>",notFound)
 
 //The any type is basically telling TypeScript to "shut up and let me do whatever I want." It turns off type checking.
 
