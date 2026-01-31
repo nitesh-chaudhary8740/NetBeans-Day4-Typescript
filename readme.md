@@ -28,22 +28,22 @@ A comprehensive, step-by-step guide to mastering TypeScript. Use this as a check
 
 ## 🟡 Phase 2: Structural Typing (Intermediate)
 *Defining complex shapes and object-oriented patterns.*
-]
+
 - ✅ **4. Interfaces & Type Aliases**
     - ✅ Interface vs. Type Alias (Differences & Use cases)
     - ✅Optional (`?`) and Readonly properties
     - ✅ Extending Interfaces (Inheritance)
     - ✅ Index Signatures
-- [ ] **5. Unions, Intersections & Narrowing**
-    - [ ] Union Types (`|`)
-    - [ ] Intersection Types (`&`)
-    - [ ] Type Narrowing (typeof, instanceof, truthiness)
-    - [ ] Discriminated Unions (The Power of `kind` properties)
-- [ ] **6. Classes**
-    - [ ] Access Modifiers: `public`, `private`, `protected`
-    - [ ] Shorthand Initialization
-    - [ ] Abstract Classes vs. Interfaces
-    - [ ] Getters and Setters
+- ✅ **5. Unions, Intersections & Narrowing**
+    - ✅ Union Types (`|`)
+    - ✅ Intersection Types (`&`)
+    - ✅ Type Narrowing (typeof, instanceof, truthiness)
+    - ✅ Discriminated Unions (The Power of `kind` properties)
+- ✅ **6. Classes**
+    - ✅ Access Modifiers: `public`, `private`, `protected`
+    - ✅ Shorthand Initialization
+    - ✅ Abstract Classes vs. Interfaces
+    - ✅[ ] Getters and Setters
 
 ---
 
