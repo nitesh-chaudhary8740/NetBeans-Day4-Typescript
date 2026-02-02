@@ -1,0 +1,7 @@
+EOD: Typescript Practicing
+1. TS InterFaces and Practicing | 1 hour
+2. TS Alias and Practicing | 1 hour
+3. TS Narrowing and Practicing | 1 hrs 
+4. TS Classes and Practicing | 2 hrs 
+5. TS Generics | 1.5 hrs and more
+

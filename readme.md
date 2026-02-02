@@ -43,7 +43,7 @@ A comprehensive, step-by-step guide to mastering TypeScript. Use this as a check
     - ✅ Access Modifiers: `public`, `private`, `protected`
     - ✅ Shorthand Initialization
     - ✅ Abstract Classes vs. Interfaces
-    - ✅[ ] Getters and Setters
+    - ✅Getters and Setters
 
 ---
 

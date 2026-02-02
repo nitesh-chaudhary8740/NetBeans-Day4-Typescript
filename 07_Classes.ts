@@ -66,7 +66,7 @@ class Developer extends Employee{
         super(name,id)
     }
 }
-const dev1 = new Developer("Nitesh",8740,undefined,"js")
+export const dev1 = new Developer("Nitesh",8740,undefined,"js")
 console.log(dev1.getSalary())
 dev1.describe()
 
