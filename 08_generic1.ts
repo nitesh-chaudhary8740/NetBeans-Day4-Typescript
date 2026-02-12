@@ -80,7 +80,7 @@ interface ApiResponse<T>{
 // Create a Generic Function wrapData<T>:
 // It takes an argument of type T.
 // It returns an object of type ApiResponse<T>.
-function wrapData<T>(arg:T):ApiResponse<T>{
+function wrapData<D>(arg:D):ApiResponse<D>{
     return {
         status:"success",
         data:arg

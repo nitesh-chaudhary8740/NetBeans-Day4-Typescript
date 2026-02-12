@@ -50,15 +50,15 @@ A comprehensive, step-by-step guide to mastering TypeScript. Use this as a check
 ## 🟠 Phase 3: Generics & Utility Types (Advanced)
 *Writing reusable, flexible, and type-safe logic.*
 
-- [ ] **7. Generics**
-    - [ ] Generic Functions (`<T>`)
-    - [ ] Generic Interfaces and Classes
-    - [ ] Generic Constraints (`extends`)
-- [ ] **8. Built-in Utility Types**
-    - [ ] `Partial<T>`, `Required<T>`, `Readonly<T>`
-    - [ ] `Pick<T, K>`, `Omit<T, K>`
-    - [ ] `Record<K, T>`
-    - [ ] `ReturnType<T>`, `Parameters<T>`
+- ✅ **7. Generics**
+    - ✅ Generic Functions (`<T>`)
+    - ✅ Generic Interfaces and Classes
+    - ✅ Generic Constraints (`extends`)
+- ✅ **8. Built-in Utility Types**
+    - ✅ `Partial<T>`, `Required<T>`, `Readonly<T>`
+    - ✅ `Pick<T, K>`, `Omit<T, K>`
+    - ✅ `Record<K, T>`
+    - ✅ `ReturnType<T>`, `Parameters<T>`
 - [ ] **9. Advanced Type Manipulation**
     - [ ] Keyof Operator
     - [ ] Typeof Operator

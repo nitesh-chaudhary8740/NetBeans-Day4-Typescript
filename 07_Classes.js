@@ -1,3 +1,4 @@
+"use strict";
 // Access Modifiers (The "Shields")
 // This is the most important feature TS adds to JS classes. It controls "visibility."
 var __extends = (this && this.__extends) || (function () {
@@ -15,6 +16,8 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.dev1 = void 0;
 // public (Default): The property/method can be accessed from anywhere.
 // private: The property/method is only accessible inside the class it was defined in. Even "child" classes cannot see it.
 // protected: The property/method is accessible inside the class and any class that extends (inherits) from it.
@@ -87,9 +90,9 @@ var Developer = /** @class */ (function (_super) {
     };
     return Developer;
 }(Employee));
-var dev1 = new Developer("Nitesh", 8740, undefined, "js");
-console.log(dev1.getSalary());
-dev1.describe();
+exports.dev1 = new Developer("Nitesh", 8740, undefined, "js");
+console.log(exports.dev1.getSalary());
+exports.dev1.describe();
 // Task 3: The Manager (Protected Access)
 // Create a class Manager that extends Employee.
 // Properties: A private array managedEmployees: string[].

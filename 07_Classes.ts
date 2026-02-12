@@ -79,6 +79,7 @@ dev1.describe()
 
 // Method: listId() — This should log the id property. (This tests if protected is working, as Manager should be able to see the id from the parent Employee class).
 
+
 class Manager extends Employee{
         getSalary(): number {
             return this.salary
